@@ -1,0 +1,70 @@
+body {
+    font-family: "Poppins";
+    text-align:justify;
+    color: white;
+    background-image: url("lim.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+
+}
+
+#box1 {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 15px;
+  width: 800px;
+  padding:50px;
+  margin:auto;
+}
+
+.logo {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo-text {
+  color: #00FF00;
+  text-align: center;
+}
+
+.row-button {
+  display: inline-block;
+  width: 800px;
+  height: 40px;
+  margin: auto;
+  text-align: center;
+  position:relative;
+  padding-top:6px;
+}
+
+nav {
+  background-color: #00FF00;
+}
+
+.mono
+{
+  margin:30px;
+}
+
+#Gino22 {
+  background-color: #F0E68C;
+  border-radius: 15px;
+  width: 210px;
+  height: 28px;
+}
+
+#Mike24 {
+  background-color: #00FF00;
+  border-radius: 15px;
+  width: 500px;
+  height: 28px;
+}
+
+#Fede154 {
+  background-color: #F08080;
+  border-radius: 15px;
+  width: 180px;
+  height: 28px;
+}
